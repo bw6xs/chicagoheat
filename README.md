@@ -2,7 +2,8 @@
 
 Datasets and code for Chicago Heat Vulnerability Mapper project. Web application has been [revived here](https://bw6xs.shinyapps.io/chicagoheat):  
 
-<img src="screenshot.png" width="80%">
+<p align="center">
+<img src="screenshot.png" width="80%"></p>
 
 This project was funded by the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/about-lincoln-institute) and led to the development of an open-source, web-based tool that could be used to visualize scenarios that capture possible distributions of heat-exposure and vulnerability over space. The  Chicago Heat Vulnerability Mapper tool is designed as a multi-tab website that separates the primary visualization functionality by exposure metric, analysis method, and time horizon. 
 
