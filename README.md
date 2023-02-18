@@ -1,8 +1,6 @@
 # Chicago Heat Vulnerability Mapper
 
-Datasets and code for Chicago Heat Vulnerability Mapper project
-
-Web application has been [revived here](https://bw6xs.shinyapps.io/chicagoheat):  
+Datasets and code for Chicago Heat Vulnerability Mapper project. The web application has been [revived here](https://bw6xs.shinyapps.io/chicagoheat):  
 
 <p align="center">
 <img src="screenshot.png" width="80%"></p>
