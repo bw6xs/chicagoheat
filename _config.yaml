@@ -1,3 +1,19 @@
-remote_theme: pages-themes/slate@v0.2.0
+
+# remote_theme: pages-themes/modernist@v0.2.0
+#remote_theme: remote_theme: daviddarnes/alembic@main
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+
+title: Bev Wilson
+author: Bev Wilson
+locale: en_US
+logo: #
+round-avatar : true
+---
+
+location        : Charlottesville, Virginia  
+uvasite         : https://www.arch.virginia.edu/people/bev-wilson
+googlescholar   : https://scholar.google.com/citations?user=-y4JRccAAAAJ&hl=en
+email           : bw6xs@virginia.edu
+orcid           : http://orcid.org/0000-0003-3892-456X
